@@ -1,5 +1,7 @@
 # kinematics.js
 
+https://www.youtube.com/watch?v=tSry9HfZKh8&ab_channel=MaximilianBeck
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/glumb/kinematics/master/LICENSE.md)
 [![Travis](https://img.shields.io/travis/glumb/kinematics.svg)](https://travis-ci.org/glumb/kinematics)
 [![npm](https://img.shields.io/npm/v/kinematics.svg)](https://www.npmjs.com/package/kinematics)
